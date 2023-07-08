@@ -1,0 +1,11 @@
+Model Information:
+* title:	Island statuette
+* source:	https://sketchfab.com/3d-models/island-statuette-c2d551de94044cd5af008c74044d2ff7
+* author:	alskullman (https://sketchfab.com/alskullman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Island statuette" (https://sketchfab.com/3d-models/island-statuette-c2d551de94044cd5af008c74044d2ff7) by alskullman (https://sketchfab.com/alskullman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

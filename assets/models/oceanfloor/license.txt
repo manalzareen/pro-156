@@ -1,0 +1,11 @@
+Model Information:
+* title:	Oceanfloor
+* source:	https://sketchfab.com/3d-models/oceanfloor-0059985fb33047b3ba19137d6efe01a4
+* author:	Guitarman2492 (https://sketchfab.com/Guitarman2492)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Oceanfloor" (https://sketchfab.com/3d-models/oceanfloor-0059985fb33047b3ba19137d6efe01a4) by Guitarman2492 (https://sketchfab.com/Guitarman2492) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
